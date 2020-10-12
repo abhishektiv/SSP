@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width , initial-scale=1.0">
+        <title>Assignment 2 - Html tutorial</title>
+        <link rel="stylesheet" href="../styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <h2><b>hello</b> is formatted bold</h2>
+            <h2><i>hello</i> is formatted italic /h2>
+            <h2><u>Hello</u> is formatted underline</h2>
+            <h2>Hello this is <sub>subscript</sub> </h2>
+            <h2>Hello this is <sup>superscript</sup></h2>
+        </div>
+    </body>
+</html>
